@@ -20,6 +20,10 @@ Node *createNode(int val)
   return newNode;
 }
 
+Node *pushNode()
+{
+}
+
 int main()
 {
 }
